@@ -1,0 +1,2 @@
+# Neural-Network-Training-From-Scratch-to-Transfer-Learning
+This project explores deep learning model training using various optimizers (Momentum, RMSProp, Adam), regularization techniques (L1, L2, Dropout), and transfer learning with pretrained CNNs (VGG16, ResNet-50) on datasets like Iris, CIFAR-10, and MNIST. Implemented using Keras and evaluated for accuracy, convergence, and inference performance.
